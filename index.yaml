@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  firsthelm:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-05-06T14:49:16.681743874Z"
+    description: A Helm chart for Kubernetes
+    digest: 4630c9dc136dbd1218a9ed8e4cff997977ece13ca848c899e0c37db3e2a18c39
+    name: firsthelm
+    type: application
+    urls:
+    - https://goochaan.github.io/myfirsthelmrepo/firsthelm-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-05-06T14:49:16.680939754Z"
