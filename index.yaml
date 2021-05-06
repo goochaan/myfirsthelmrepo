@@ -3,9 +3,9 @@ entries:
   firsthelm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-05-06T14:54:10.716090679Z"
+    created: "2021-05-06T15:07:58.544385382Z"
     description: A Helm chart for Kubernetes
-    digest: 35b73e17804a28c65ff88bac257da542106cbebbb63b613964223b85eb424c16
+    digest: a7af7868f11df09b38755e2b461de1f7a5f10a9f9236074392f01d820bd26d37
     name: firsthelm
     type: application
     urls:
@@ -21,4 +21,15 @@ entries:
     urls:
     - https://goochaan.github.io/myfirsthelmrepo/firsthelm-0.1.0.tgz
     version: 0.1.0
-generated: "2021-05-06T14:54:10.715323874Z"
+  secondhelm:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-05-06T15:07:58.545026485Z"
+    description: A Helm chart for Kubernetes
+    digest: be1fb9ce8f24dce27b973797f79fb1fa284401a4670ed0b9e2f69b1c20b31de0
+    name: secondhelm
+    type: application
+    urls:
+    - https://goochaan.github.io/myfirsthelmrepo/secondhelm-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-05-06T15:07:58.543591078Z"
